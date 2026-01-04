@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #0f0f12;
+  color: #fff;
+}
+
+header {
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid #222;
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  background: #1c1c22;
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.card h3 {
+  margin: 0 0 8px 0;
+}
+
+.card p {
+  color: #aaa;
+  font-size: 14px;
+}
